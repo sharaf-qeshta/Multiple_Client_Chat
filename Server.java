@@ -47,7 +47,7 @@ public class Server extends Application
 
         Scene scene = new Scene(stackPane, 500, 250);
         stage.setScene(scene);
-        stage.setTitle("Problem$10Server");
+        stage.setTitle("Server");
         stage.show();
     }
 
