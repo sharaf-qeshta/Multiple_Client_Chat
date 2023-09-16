@@ -1,5 +1,3 @@
-package chapter_thirty_three;
-
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.scene.Scene;
