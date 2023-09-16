@@ -84,7 +84,7 @@ public class Client extends Application
 
         Scene scene = new Scene(pane, 250, 250);
         stage.setScene(scene);
-        stage.setTitle("Problem$10Client");
+        stage.setTitle("Client");
         stage.show();
     }
 }
